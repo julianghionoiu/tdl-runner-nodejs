@@ -13,12 +13,11 @@
   },
   "dependencies": {
     "properties-reader": "0.0.15",
-    "tdl-client-nodejs": "^0.25.1"
+    "tdl-client-nodejs": "0.26.3"
   },
   "devDependencies": {
-    "nyc": "^12.0.1",
+    "nyc": "14.1.1",
     "prettier": "^1.11.1",
-    "istanbul": "^0.4.5",
     "diveSync": "0.3.0",
     "mocha": "^5.2.0"
   },
